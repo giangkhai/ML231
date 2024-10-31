@@ -4,7 +4,7 @@
 import pygame as p
 import Engine, ChessAI
 from multiprocessing import Process, Queue
-MAX_FPS = 10 #animations later on
+MAX_FPS = 10 #animations
 BOARD_WIDTH = BOARD_HEIGHT = 480
 MOVE_LOG_PANEL_WIDTH = 3*BOARD_WIDTH/8
 MOVE_LOG_PANEL_HEIGHT = BOARD_HEIGHT
